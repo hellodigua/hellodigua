@@ -1,4 +1,4 @@
-### Hi, I'm 地瓜 👋
+### Hi, I'm 地瓜🍠
 
 I'm living in Chengdu and currently developing intersting things.
 
