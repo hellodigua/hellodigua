@@ -1,5 +1,5 @@
-### Hi, I'm 地瓜🍠
+### Hi, I'm 🍠
 
-I live in Chengdu and am currently developing interesting things.
+I am currently developing interesting things.
 
 You can reach me via [digua.moe](https://digua.moe).
