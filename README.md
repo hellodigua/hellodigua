@@ -4,9 +4,9 @@ AI Full-Stack Engineer who likes creating interesting things.
 
 ### Working On
 
-- 🧪 **[ChatLab](https://chatlab.fun)** — Local-first AI for chat history
-- 📊 **[code996](https://hellodigua.github.io/code996)** — Infer coding intensity from Git commit times
-- 🎨 **[UniEmoji](https://github.com/hellodigua/UniEmoji)** — Same meanings, any face
+- 🔍 **[ChatLab](https://chatlab.fun)** — Local-first chat history analyzer with AI.
+- 📊 **[code996](https://hellodigua.github.io/code996)** — Analyzes the commit time distribution of Git projects to infer coding work intensity.
+- 🖼️ **[UniEmoji](https://github.com/hellodigua/UniEmoji)** — Unified emoji protocol. Same meanings, any face.
 
 ### How to Reach Me
 
